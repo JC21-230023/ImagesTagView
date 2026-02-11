@@ -1,4 +1,4 @@
-package jp.outlook.hinadory.T_Img02;
+
 
 import junit.framework.Test;
 import junit.framework.TestCase;
